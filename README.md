@@ -6,5 +6,7 @@ Botão toggle para temas claro e escuro com animações, há conceitos de box-sh
 
 ## Fontes
 vídeo no Youtube: https://youtu.be/l8aC7BsKhTI
+
 clip-path: https://bennettfeely.com/clippy/
+
 icons: https://ionic.io/ionicons
